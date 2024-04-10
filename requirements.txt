@@ -2,6 +2,7 @@ gradio
 gradio-pdf
 llama-index
 llama-index-embeddings-mistralai
+llama-index-embeddings-openai
 llama-index-embeddings-azure-openai
 llama-index-llms-mistralai
 llama-index-llms-azure-openai
